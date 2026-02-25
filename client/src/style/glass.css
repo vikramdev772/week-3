@@ -149,6 +149,7 @@
  .glass-input {
    width: 100%;
    padding: 12px 14px;
+   box-sizing: border-box;
    border-radius: var(--radius-md);
    border: 1px solid var(--glass-brd);
    background: rgba(255,255,255,0.7);
